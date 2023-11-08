@@ -15,4 +15,4 @@ A brief description of what this project does and who it's for
 - Select average transaction did by customers last month
 
 ## ERD
-![ERD]([https://raw.githubusercontent.com/HamzahRaihan/retail-online-mysql-database/main/img/ERD%20Online%20Retail%20Database%20Desain.png?token=GHSAT0AAAAAACJGN5PZQ3ZJPTHZJWSCN6UEZKLLUIA])
+![ERD](https://raw.githubusercontent.com/HamzahRaihan/retail-online-mysql-database/main/img/ERD%20Online%20Retail%20Database%20Desain.png?token=GHSAT0AAAAAACJGN5PZQ3ZJPTHZJWSCN6UEZKLLUIA)
