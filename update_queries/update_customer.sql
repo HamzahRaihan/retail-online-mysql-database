@@ -1,1 +1,0 @@
-UPDATE customers SET name='Greese Davidson' WHERE `customer_id`=1;
