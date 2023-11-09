@@ -1,0 +1,1 @@
+DELETE FROM carts WHERE carts_id=1
