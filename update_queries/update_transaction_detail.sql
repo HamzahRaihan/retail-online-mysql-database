@@ -1,0 +1,1 @@
+UPDATE transaction_detail SET customer_id=2 WHERE transaction_id=2;
