@@ -1,0 +1,1 @@
+UPDATE carts SET order_id=2 WHERE cart_id=1;
