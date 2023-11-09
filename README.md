@@ -2,8 +2,6 @@
 
 Online Retail Database Design is a project i've made to accomplish one of skilvul assignment. 
 
-A brief description of what this project does and who it's for
-
 ## Features
 
 - Create Database
