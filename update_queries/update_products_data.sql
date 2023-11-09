@@ -1,0 +1,1 @@
+UPDATE products SET product_name='Nova V2 Mouse Wireless' WHERE product_id=11;
