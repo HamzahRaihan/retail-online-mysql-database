@@ -1,0 +1,1 @@
+UPDATE categories SET category='Accessories' WHERE category_id=12;
